@@ -1,0 +1,12 @@
+{
+	"mysql": {
+		"db":"developer",
+		"usuario":"gerencial",
+		"senha":"1532566@Abc",
+		"host":"localhost"
+	},
+	"api": {
+		"porta":"3000"
+	}
+}
+
